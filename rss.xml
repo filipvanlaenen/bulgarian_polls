@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Народно събрание, the National Assembly of Bulgaria</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание, the National Assembly of Bulgaria</description>
-    <pubDate>Fri, 04 Sep 2020 21:09:28 +0200</pubDate>
+    <pubDate>Sun, 06 Sep 2020 15:49:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-25-SovaHarris.html</link>
@@ -19,6 +19,26 @@
       <pubDate>Fri, 04 Sep 2020 21:09:28 +0200</pubDate>
       <dc:date>2020-09-04T21:09:28.396611+02:00</dc:date>
     </item>
-    <dc:date>2020-09-04T21:09:28.396611+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 3–10 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 22.5–27.8%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 21.2–26.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Атака: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Воля: 0.7–2.2%&lt;/li&gt;&lt;li&gt;Демократична България: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Има такъв народ: 13.3–17.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Възраждане: 0.4–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд.png"
+        length="357646"
+        type="image/png"/>
+      <pubDate>Sun, 06 Sep 2020 15:44:28 +0200</pubDate>
+      <dc:date>2020-09-06T15:44:28.484532+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup International, 30 July–7 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 19.3–26.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 18.4–25.4%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.3–5.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.2–13.4%&lt;/li&gt;&lt;li&gt;Демократична България: 6.7–11.5%&lt;/li&gt;&lt;li&gt;Има такъв народ: 9.8–15.4%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.4–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational.png"
+        length="305950"
+        type="image/png"/>
+      <pubDate>Sun, 06 Sep 2020 15:49:40 +0200</pubDate>
+      <dc:date>2020-09-06T15:49:40.12151+02:00</dc:date>
+    </item>
+    <dc:date>2020-09-06T15:49:40.12151+02:00</dc:date>
   </channel>
 </rss>
