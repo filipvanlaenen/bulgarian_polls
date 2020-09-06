@@ -92,8 +92,8 @@ Last result: **12** seats (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–11 | 0–11 | 0–11 |
-| [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0 | 0–11 | 0–11 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–11 | 0–11 |
+| [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0 | 0 | 0–11 | 0–11 | 0–12 |
 | [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
@@ -158,21 +158,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Median |
-| 1 | 0% | 7% |  |
-| 2 | 0% | 7% |  |
-| 3 | 0% | 7% |  |
-| 4 | 0% | 7% |  |
-| 5 | 0% | 7% |  |
-| 6 | 0% | 7% |  |
-| 7 | 0% | 7% |  |
-| 8 | 0% | 7% |  |
-| 9 | 0% | 7% |  |
-| 10 | 1.2% | 7% |  |
-| 11 | 5% | 5% |  |
-| 12 | 0% | 0.3% | Last Result |
-| 13 | 0.2% | 0.2% |  |
+| 0 | 96% | 100% | Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0% | 4% |  |
+| 4 | 0% | 4% |  |
+| 5 | 0% | 4% |  |
+| 6 | 0% | 4% |  |
+| 7 | 0% | 4% |  |
+| 8 | 0% | 4% |  |
+| 9 | 0% | 4% |  |
+| 10 | 0.7% | 4% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.2% | 0.4% | Last Result |
+| 13 | 0.1% | 0.2% |  |
 | 14 | 0% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 15 | 0% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 

@@ -93,8 +93,8 @@ Last result: **0** seats (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–12 | 0–12 | 0–13 | 0–14 |
-| [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0 | 0–12 | 0–12 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 0 | 0–13 | 0–13 | 0–13 | 0–15 |
+| [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0 | 0–13 | 0–13 | 0–13 | 0–15 |
 | [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
@@ -159,23 +159,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 0% | 20% |  |
-| 4 | 0% | 20% |  |
-| 5 | 0% | 20% |  |
-| 6 | 0% | 20% |  |
-| 7 | 0% | 20% |  |
-| 8 | 0% | 20% |  |
-| 9 | 0% | 20% |  |
-| 10 | 0% | 20% |  |
-| 11 | 5% | 20% |  |
-| 12 | 11% | 14% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.6% | 1.0% |  |
-| 15 | 0.3% | 0.4% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 0% | 27% |  |
+| 2 | 0% | 27% |  |
+| 3 | 0% | 27% |  |
+| 4 | 0% | 27% |  |
+| 5 | 0% | 27% |  |
+| 6 | 0% | 27% |  |
+| 7 | 0% | 27% |  |
+| 8 | 0% | 27% |  |
+| 9 | 0% | 27% |  |
+| 10 | 0.7% | 27% |  |
+| 11 | 4% | 27% |  |
+| 12 | 11% | 23% |  |
+| 13 | 9% | 12% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.6% | 0.9% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
