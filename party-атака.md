@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0.9% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
-| [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 1.2% | N/A | N/A | N/A | N/A |
+| [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
@@ -74,10 +74,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 80% | 93% | Median |
-| 1.5–2.5% | 13% | 13% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 4% | 100% | Last Result |
+| 0.5–1.5% | 79% | 96% | Median |
+| 1.5–2.5% | 17% | 17% |  |
+| 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -91,7 +91,7 @@ Last result: **0** seats (General Election of 27 March 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |
-| [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
+| [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
