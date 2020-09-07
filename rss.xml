@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Народно събрание, the National Assembly of Bulgaria</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание, the National Assembly of Bulgaria</description>
-    <pubDate>Sun, 06 Sep 2020 18:53:50 +0200</pubDate>
+    <pubDate>Sun, 06 Sep 2020 20:28:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-25-SovaHarris.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-09-06T18:53:50.989385+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Тренд for 24 часа, 3–10 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 58–73 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 56–68 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–14 seats&lt;/li&gt;&lt;li&gt;Атака: 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 22–32 seats&lt;/li&gt;&lt;li&gt;Воля: 0 seats&lt;/li&gt;&lt;li&gt;Демократична България: 22–33 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 34–48 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–15 seats&lt;/li&gt;&lt;li&gt;Възраждане: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд-seats.png"
+        length="300076"
+        type="image/png"/>
+      <pubDate>Sun, 06 Sep 2020 20:28:44 +0200</pubDate>
+      <dc:date>2020-09-06T20:28:44.591693+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 3–10 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд-coalitions-seats.png"
+        length="131350"
+        type="image/png"/>
+      <pubDate>Sun, 06 Sep 2020 20:28:44 +0200</pubDate>
+      <dc:date>2020-09-06T20:28:44.591693+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Тренд for 24 часа, 3–10 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 22.5–27.8%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 21.2–26.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Атака: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Воля: 0.7–2.2%&lt;/li&gt;&lt;li&gt;Демократична България: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Има такъв народ: 13.3–17.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Възраждане: 0.4–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-10-Тренд.png"
         length="357646"
         type="image/png"/>
-      <pubDate>Sun, 06 Sep 2020 15:44:28 +0200</pubDate>
-      <dc:date>2020-09-06T15:44:28.484532+02:00</dc:date>
+      <pubDate>Sun, 06 Sep 2020 20:28:44 +0200</pubDate>
+      <dc:date>2020-09-06T20:28:44.591693+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International, 30 July–7 August 2020 – Seat Projections for the Parties</title>
@@ -79,6 +99,6 @@
       <pubDate>Sun, 06 Sep 2020 18:32:04 +0200</pubDate>
       <dc:date>2020-09-06T18:32:04.861418+02:00</dc:date>
     </item>
-    <dc:date>2020-09-06T18:53:50.989385+02:00</dc:date>
+    <dc:date>2020-09-06T20:28:44.591693+02:00</dc:date>
   </channel>
 </rss>
