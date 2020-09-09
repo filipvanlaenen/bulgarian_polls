@@ -17,7 +17,7 @@ Only polls for which at least the sample size has been published are included in
 
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
-+ **Bottom half of each row:** Seat projections for the Народно събрание, the National Assembly of Bulgaria (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Народно събрание (95% confidence interval)
 + **ГЕРБ:** Граждани за европейско развитие на България
 + **БСП:** Българска социалистическа партия
 + **ОП:** Обединени Патриоти
