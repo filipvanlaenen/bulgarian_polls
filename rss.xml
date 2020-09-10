@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Wed, 09 Sep 2020 17:55:08 +0200</pubDate>
+    <pubDate>Thu, 10 Sep 2020 07:09:36 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-25-SovaHarris.html#seats</link>
@@ -120,6 +120,16 @@
       <dc:date>2020-09-08T06:59:12.923003+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sova Harris, 26 June–1 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-07-01-SovaHarris.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 33.5–41.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 18.2–25.0%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 5.7–10.0%&lt;/li&gt;&lt;li&gt;Атака: 0.6–2.5%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 1.0–3.2%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 5.8–10.2%&lt;/li&gt;&lt;li&gt;Воля: 2.9–6.2%&lt;/li&gt;&lt;li&gt;Демократична България: 2.9–6.2%&lt;/li&gt;&lt;li&gt;Има такъв народ: 7.0–11.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 1.6–4.3%&lt;/li&gt;&lt;li&gt;Възраждане: 1.7–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-07-01-SovaHarris.png"
+        length="347606"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 07:09:36 +0200</pubDate>
+      <dc:date>2020-09-10T07:09:36.13658+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Маркет ЛИНКС, 27 May–3 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-06-03-МаркетЛИНКС.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 30.9–37.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 22.7–28.7%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение: 2.6–5.2%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 7.9–12.0%&lt;/li&gt;&lt;li&gt;Демократична България: 6.7–10.6%&lt;/li&gt;&lt;li&gt;Има такъв народ: 7.9–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -189,6 +199,6 @@
       <pubDate>Tue, 08 Sep 2020 08:28:53 +0200</pubDate>
       <dc:date>2020-09-08T08:28:53.649387+02:00</dc:date>
     </item>
-    <dc:date>2020-09-09T17:55:08.691061+02:00</dc:date>
+    <dc:date>2020-09-10T07:09:36.13658+02:00</dc:date>
   </channel>
 </rss>
