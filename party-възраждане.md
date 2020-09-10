@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 27 March 2017)
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.5% | 0.3–1.2% | 0.2–1.4% | 0.2–1.6% | 0.1–2.0% |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 2.8% | N/A | N/A | N/A | N/A |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 2.8% | 2.1–3.9% | 1.9–4.2% | 1.7–4.5% | 1.4–5.1% |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 27 March 2017)
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0 | 0 | 0 | 0 | 0 |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris |  |  |  |  |  |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0 | 0–13 | 0–14 | 0–15 | 0–15 |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
