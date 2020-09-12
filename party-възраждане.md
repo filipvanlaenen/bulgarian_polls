@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.3–1.4% | 0.3–1.6% | 0.2–1.9% |
-| [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 1.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.6% | 0.4–1.8% | 0.3–1.9% | 0.2–2.3% |
+| [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0.6% | 0.4–1.2% | 0.3–1.4% | 0.2–1.6% | 0.2–2.0% |
 | [3–11 August 2020](2020-08-11-БарометърБългария.html) | Барометър България | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -76,10 +76,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 28% | 100% | Last Result |
-| 0.5–1.5% | 69% | 72% | Median |
-| 1.5–2.5% | 3% | 3% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 14% | 100% | Last Result |
+| 0.5–1.5% | 74% | 86% | Median |
+| 1.5–2.5% | 12% | 12% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,7 +92,7 @@ Last result: **0** seats (General Election of 27 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
+| [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |
 | [3–11 August 2020](2020-08-11-БарометърБългария.html) | Барометър България |  |  |  |  |  |
 | [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
