@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Sat, 12 Sep 2020 12:24:03 +0200</pubDate>
+    <pubDate>Sat, 12 Sep 2020 21:24:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-05-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 21.3–26.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 20.9–26.1%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Атака: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Воля: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Демократична България: 8.2–11.9%&lt;/li&gt;&lt;li&gt;Има такъв народ: 13.7–18.3%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Възраждане: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-09-05-Тренд.png"
+        length="342305"
+        type="image/png"/>
+      <pubDate>Sat, 12 Sep 2020 21:24:56 +0200</pubDate>
+      <dc:date>2020-09-12T21:24:56.029186+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-25-SovaHarris.html</link>
@@ -139,6 +149,6 @@
       <pubDate>Sat, 12 Sep 2020 12:24:01 +0200</pubDate>
       <dc:date>2020-09-12T12:24:01.600402+02:00</dc:date>
     </item>
-    <dc:date>2020-09-12T12:24:03.216447+02:00</dc:date>
+    <dc:date>2020-09-12T21:24:56.029186+02:00</dc:date>
   </channel>
 </rss>
