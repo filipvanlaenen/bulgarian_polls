@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Sun, 13 Sep 2020 22:46:31 +0200</pubDate>
+    <pubDate>Mon, 14 Sep 2020 07:24:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-05-Тренд.html#seats</link>
@@ -219,6 +219,16 @@
       <pubDate>Sat, 12 Sep 2020 12:24:01 +0200</pubDate>
       <dc:date>2020-09-12T12:24:01.600402+02:00</dc:date>
     </item>
-    <dc:date>2020-09-13T22:46:31.739809+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 5–12 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2019-07-12-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 34.4–42.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 26.7–33.9%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 6.1–10.3%&lt;/li&gt;&lt;li&gt;Атака: 1.0–3.1%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.2–14.2%&lt;/li&gt;&lt;li&gt;Воля: 1.1–3.3%&lt;/li&gt;&lt;li&gt;Демократична България: 3.7–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2019-07-12-Тренд.png"
+        length="256484"
+        type="image/png"/>
+      <pubDate>Mon, 14 Sep 2020 07:24:14 +0200</pubDate>
+      <dc:date>2020-09-14T07:24:14.399749+02:00</dc:date>
+    </item>
+    <dc:date>2020-09-14T07:24:14.399749+02:00</dc:date>
   </channel>
 </rss>
