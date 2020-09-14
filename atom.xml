@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/bulgarian_polls</id>
   <title>All Registered Polls for the Народно събрание</title>
-  <updated>2020-09-13T13:33:03.008597+02:00</updated>
+  <updated>2020-09-13T22:46:31.739809+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 21.3–26.6%, 57–72 seats</li><li>Българска социалистическа партия: 20.9–26.1%, 54–75 seats</li><li>Обединени Патриоти: 2.8–5.3%, 0–14 seats</li><li>Атака: 0.6–2.0%, 0 seats</li><li>Алтернатива за българско възраждане: 0.1–0.7%, 0 seats</li><li>Движение за права и свободи: 8.7–12.5%, 24–34 seats</li><li>Воля: 0.7–2.1%, 0 seats</li><li>Демократична България: 8.2–11.9%, 22–32 seats</li><li>Има такъв народ: 13.7–18.3%, 38–51 seats</li><li>Изправи се Бг: 2.9–5.4%, 0–15 seats</li><li>Възраждане: 0.7–2.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-05-Тренд.html</id>
@@ -15,5 +15,21 @@
     <updated>2020-09-13T13:33:03.008597+02:00</updated>
     <dc:date>2020-09-13T13:33:03.008597+02:00</dc:date>
   </entry>
-  <dc:date>2020-09-13T13:33:03.008597+02:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 24.5–31.5%, 62–83 seats</li><li>Българска социалистическа партия: 21.4–28.1%, 55–73 seats</li><li>Обединени Патриоти: 3.0–6.2%, 0–15 seats</li><li>Атака: 0.4–2.0%, 0 seats</li><li>Алтернатива за българско възраждане: 0.5–2.2%, 0 seats</li><li>Движение за права и свободи: 7.2–11.7%, 19–30 seats</li><li>Воля: 1.9–4.6%, 0–12 seats</li><li>Демократична България: 5.3–9.3%, 13–24 seats</li><li>Има такъв народ: 13.1–18.8%, 35–47 seats</li><li>Изправи се Бг: 3.2–6.4%, 0–16 seats</li><li>Възраждане: 0.2–1.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-25-SovaHarris.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-25-SovaHarris.html"/>
+    <title>Opinion Poll by Sova Harris, 19–25 August 2020</title>
+    <updated>2020-09-13T22:29:23.07452+02:00</updated>
+    <dc:date>2020-09-13T22:29:23.07452+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 35.7–42.3%, 93–112 seats</li><li>Българска социалистическа партия: 16.4–21.7%, 43–57 seats</li><li>Обединени Патриоти: 9.6–14.0%, 25–37 seats</li><li>Движение за права и свободи: 10.2–14.6%, 27–38 seats</li><li>Воля: 1.0–2.8%, 0 seats</li><li>Демократична България: 3.6–6.6%, 0–17 seats</li><li>Има такъв народ: 4.0–7.1%, 0–19 seats</li><li>Изправи се Бг: 1.2–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-11-БарометърБългария.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-11-БарометърБългария.html"/>
+    <title>Opinion Poll by Барометър България, 3–11 August 2020</title>
+    <updated>2020-09-13T22:46:31.739809+02:00</updated>
+    <dc:date>2020-09-13T22:46:31.739809+02:00</dc:date>
+  </entry>
+  <dc:date>2020-09-13T22:46:31.739809+02:00</dc:date>
 </feed>
