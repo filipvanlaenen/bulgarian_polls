@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Mon, 14 Sep 2020 07:24:14 +0200</pubDate>
+    <pubDate>Fri, 18 Sep 2020 08:55:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-05-Тренд.html#seats</link>
@@ -110,14 +110,54 @@
       <dc:date>2020-09-12T12:24:03.216447+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup International, 30 July–7 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 58–81 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 55–76 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–16 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 24–40 seats&lt;/li&gt;&lt;li&gt;Демократична България: 20–35 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 29–46 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational-seats.png"
+        length="242393"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 08:48:39 +0200</pubDate>
+      <dc:date>2020-09-18T08:48:39.438279+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup International, 30 July–7 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational-coalitions-seats.png"
+        length="235788"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 08:48:39 +0200</pubDate>
+      <dc:date>2020-09-18T08:48:39.438279+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup International, 30 July–7 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 19.3–26.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 18.4–25.4%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.3–5.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.2–13.4%&lt;/li&gt;&lt;li&gt;Демократична България: 6.7–11.5%&lt;/li&gt;&lt;li&gt;Има такъв народ: 9.8–15.4%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.4–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-07-GallupInternational.png"
         length="291568"
         type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 12:24:03 +0200</pubDate>
-      <dc:date>2020-09-12T12:24:03.200447+02:00</dc:date>
+      <pubDate>Fri, 18 Sep 2020 08:48:39 +0200</pubDate>
+      <dc:date>2020-09-18T08:48:39.438279+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 28 July–3 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-03-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 51–69 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 45–62 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–16 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 20–31 seats&lt;/li&gt;&lt;li&gt;Демократична България: 21–32 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 51–68 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-03-МаркетЛИНКС-seats.png"
+        length="250234"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 08:55:38 +0200</pubDate>
+      <dc:date>2020-09-18T08:55:38.818487+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 28 July–3 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-08-03-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-03-МаркетЛИНКС-coalitions-seats.png"
+        length="217400"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 08:55:38 +0200</pubDate>
+      <dc:date>2020-09-18T08:55:38.818487+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 28 July–3 August 2020 – Voting Intentions</title>
@@ -126,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-03-МаркетЛИНКС.png"
         length="287441"
         type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 12:24:03 +0200</pubDate>
-      <dc:date>2020-09-12T12:24:03.184446+02:00</dc:date>
+      <pubDate>Fri, 18 Sep 2020 08:55:38 +0200</pubDate>
+      <dc:date>2020-09-18T08:55:38.818487+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч for Дневник, 23–30 July 2020 – Voting Intentions</title>
@@ -229,6 +269,6 @@
       <pubDate>Mon, 14 Sep 2020 07:24:14 +0200</pubDate>
       <dc:date>2020-09-14T07:24:14.399749+02:00</dc:date>
     </item>
-    <dc:date>2020-09-14T07:24:14.399749+02:00</dc:date>
+    <dc:date>2020-09-18T08:55:38.818487+02:00</dc:date>
   </channel>
 </rss>
