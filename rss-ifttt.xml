@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Народно събрание</description>
     <pubDate>Wed, 9 Sep 2020 18:50:46 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Алфа рисърч, 21–30 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-30-Алфарисърч.html</link>
+      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Алфа рисърч, 21–30 September 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2020-09-30-Алфарисърч.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2020-09-30-Алфарисърч.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-09-30-Алфарисърч.png" length="285518" type="image/png"/>
+      <pubDate>Mon, 19 Oct 2020 08:01:23 +0200</pubDate>
+      <dc:date>2020-10-19T08:01:23.894109+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Маркет ЛИНКС, 18–26 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-26-МаркетЛИНКС.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Народно събрание<br/>121 seats needed for a majority<br/>Opinion poll by Маркет ЛИНКС, 18–26 September 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2020-09-26-МаркетЛИНКС.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2020-09-26-МаркетЛИНКС-seating-plan.png"/>]]></description>
@@ -188,14 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-08-03-МаркетЛИНКС.png" length="287441" type="image/png"/>
       <pubDate>Fri, 18 Sep 2020 08:55:38 +0200</pubDate>
       <dc:date>2020-09-18T08:55:38.818487+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Алфа рисърч for Дневник, 23–30 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-07-30-Алфарисърч.html</link>
-      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Алфа рисърч for Дневник, 23–30 July 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2020-07-30-Алфарисърч.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2020-07-30-Алфарисърч.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-07-30-Алфарисърч.png" length="328839" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 12:24:03 +0200</pubDate>
-      <dc:date>2020-09-12T12:24:03.056443+02:00</dc:date>
     </item>
   </channel>
 </rss>
