@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Mon, 19 Oct 2020 08:01:23 +0200</pubDate>
+    <pubDate>Wed, 21 Oct 2020 19:49:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд, 3–10 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 59–77 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 58–74 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–14 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 24–35 seats&lt;/li&gt;&lt;li&gt;Воля: 0 seats&lt;/li&gt;&lt;li&gt;Демократична България: 20–30 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 37–50 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд-seats.png"
+        length="230014"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:49:15 +0200</pubDate>
+      <dc:date>2020-10-21T19:49:15.144807+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд, 3–10 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд-coalitions-seats.png"
+        length="216149"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:49:15 +0200</pubDate>
+      <dc:date>2020-10-21T19:49:15.144807+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд, 3–10 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 21.6–26.9%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 21.1–26.3%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.5–12.3%&lt;/li&gt;&lt;li&gt;Воля: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Демократична България: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Има такъв народ: 13.7–18.3%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.8–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд.png"
+        length="283927"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:49:15 +0200</pubDate>
+      <dc:date>2020-10-21T19:49:15.144807+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup International, 1–9 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-09-GallupInternational.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 16.5–21.9%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 17.2–22.7%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.3–4.9%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.2–12.4%&lt;/li&gt;&lt;li&gt;Воля: 1.7–4.0%&lt;/li&gt;&lt;li&gt;Демократична България: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Има такъв народ: 10.5–15.1%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.6–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-09-GallupInternational.png"
+        length="288916"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:34:00 +0200</pubDate>
+      <dc:date>2020-10-21T19:34:00.716091+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 21–30 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-09-30-Алфарисърч.html</link>
@@ -369,6 +409,6 @@
       <pubDate>Mon, 14 Sep 2020 07:24:14 +0200</pubDate>
       <dc:date>2020-09-14T07:24:14.399749+02:00</dc:date>
     </item>
-    <dc:date>2020-10-19T08:01:23.894109+02:00</dc:date>
+    <dc:date>2020-10-21T19:49:15.144807+02:00</dc:date>
   </channel>
 </rss>
