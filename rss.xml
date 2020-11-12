@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Sun, 01 Nov 2020 21:01:04 +0100</pubDate>
+    <pubDate>Thu, 12 Nov 2020 19:42:46 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sova Harris, 27 October–3 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-11-03-SovaHarris.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 23.9–29.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 22.5–27.9%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 7.1–10.6%&lt;/li&gt;&lt;li&gt;Воля: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Демократична България: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Има такъв народ: 9.6–13.5%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 4.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-11-03-SovaHarris.png"
+        length="288318"
+        type="image/png"/>
+      <pubDate>Thu, 12 Nov 2020 19:25:47 +0100</pubDate>
+      <dc:date>2020-11-12T19:25:47.810425+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Рего, 21–27 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 25.2–29.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 24.4–28.3%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.2–3.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 7.2–9.6%&lt;/li&gt;&lt;li&gt;Воля: 0.7–1.7%&lt;/li&gt;&lt;li&gt;Демократична България: 6.5–8.9%&lt;/li&gt;&lt;li&gt;Има такъв народ: 16.9–20.4%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.1–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.png"
+        length="263486"
+        type="image/png"/>
+      <pubDate>Thu, 12 Nov 2020 19:42:46 +0100</pubDate>
+      <dc:date>2020-11-12T19:42:46.47436+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Тренд, 3–10 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-10-Тренд.html#seats</link>
@@ -509,6 +529,6 @@
       <pubDate>Mon, 14 Sep 2020 07:24:14 +0200</pubDate>
       <dc:date>2020-09-14T07:24:14.399749+02:00</dc:date>
     </item>
-    <dc:date>2020-11-01T21:01:04.460067+01:00</dc:date>
+    <dc:date>2020-11-12T19:42:46.47436+01:00</dc:date>
   </channel>
 </rss>
