@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/bulgarian_polls</id>
   <title>All Registered Polls for the Народно събрание</title>
-  <updated>2020-11-28T13:00:13.846974+01:00</updated>
+  <updated>2020-12-02T07:05:21.489084+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 30.3–36.7%, 79–96 seats</li><li>Българска социалистическа партия: 18.2–23.7%, 47–62 seats</li><li>Обединени Патриоти: 10.6–15.0%, 27–39 seats</li><li>Движение за права и свободи: 11.1–15.7%, 29–41 seats</li><li>Воля: 0.6–2.2%, 0 seats</li><li>Демократична България: 3.9–6.9%, 0–18 seats</li><li>Има такъв народ: 4.7–8.0%, 12–21 seats</li><li>Изправи се Бг: 1.6–3.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_polls/2020-11-29-БарометърБългария.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_polls/2020-11-29-БарометърБългария.html"/>
+    <title>Opinion Poll by Барометър България, 24–29 November 2020</title>
+    <updated>2020-12-02T07:05:21.489084+01:00</updated>
+    <dc:date>2020-12-02T07:05:21.489084+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 30.5–36.7%, 80–98 seats</li><li>Българска социалистическа партия: 18.9–24.4%, 50–64 seats</li><li>Обединени Патриоти: 10.0–14.3%, 26–38 seats</li><li>Движение за права и свободи: 10.2–14.6%, 27–39 seats</li><li>Воля: 0.6–2.1%, 0 seats</li><li>Демократична България: 3.8–6.8%, 0–18 seats</li><li>Има такъв народ: 4.7–7.9%, 12–21 seats</li><li>Изправи се Бг: 1.7–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/bulgarian_polls/2020-11-11-БарометърБългария.html</id>
@@ -583,5 +591,5 @@
     <updated>2020-11-15T18:02:02.557349+01:00</updated>
     <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
   </entry>
-  <dc:date>2020-11-28T13:00:13.846974+01:00</dc:date>
+  <dc:date>2020-12-02T07:05:21.489084+01:00</dc:date>
 </feed>
