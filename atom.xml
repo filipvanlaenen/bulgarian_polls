@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/bulgarian_polls</id>
   <title>All Registered Polls for the Народно събрание</title>
-  <updated>2021-01-07T17:50:57.236981+01:00</updated>
+  <updated>2021-01-21T17:42:35.747305+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 22.9–28.6%, 61–77 seats</li><li>Българска социалистическа партия: 18.9–24.2%, 50–65 seats</li><li>Обединени Патриоти: 3.8–6.7%, 0–18 seats</li><li>Движение за права и свободи: 10.2–14.4%, 27–39 seats</li><li>Воля: 1.5–3.5%, 0 seats</li><li>Демократична България: 5.4–8.7%, 14–23 seats</li><li>Има такъв народ: 11.7–16.2%, 31–44 seats</li><li>Изправи се Бг: 3.7–6.6%, 0–18 seats</li><li>Възраждане: 0.9–2.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_polls/2021-01-15-GallupInternational.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-15-GallupInternational.html"/>
+    <title>Opinion Poll by Gallup International, 7–15 January 2021</title>
+    <updated>2021-01-21T17:42:35.747305+01:00</updated>
+    <dc:date>2021-01-21T17:42:35.747305+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 24.8–33.4%, 65–89 seats</li><li>Българска социалистическа партия: 22.3–30.7%, 58–81 seats</li><li>Обединени Патриоти: 2.0–5.5%, 0–14 seats</li><li>Движение за права и свободи: 6.2–11.6%, 16–30 seats</li><li>Демократична България: 5.2–10.2%, 14–27 seats</li><li>Има такъв народ: 9.3–15.5%, 24–41 seats</li><li>Изправи се Бг: 4.0–8.6%, 11–22 seats</li><li>Възраждане: 0.2–2.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/bulgarian_polls/2020-12-21-Алфарисърч.html</id>
@@ -615,5 +623,5 @@
     <updated>2020-11-15T18:02:02.557349+01:00</updated>
     <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
   </entry>
-  <dc:date>2021-01-07T17:50:57.236981+01:00</dc:date>
+  <dc:date>2021-01-21T17:42:35.747305+01:00</dc:date>
 </feed>
