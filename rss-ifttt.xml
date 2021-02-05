@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Народно събрание</description>
     <pubDate>Wed, 9 Sep 2020 18:50:46 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.html</link>
+      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Маркет ЛИНКС, 23–31 January 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.png" length="295925" type="image/png"/>
+      <pubDate>Fri, 5 Feb 2021 18:19:52 +0100</pubDate>
+      <dc:date>2021-02-05T18:19:52.292783+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Тренд for 24 часа, 12–19 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-01-19-Тренд.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Народно събрание<br/>121 seats needed for a majority<br/>Opinion poll by Тренд for 24 часа, 12–19 January 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2021-01-19-Тренд.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-19-Тренд-seating-plan.png"/>]]></description>
@@ -204,30 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-11-03-SovaHarris.png" length="288318" type="image/png"/>
       <pubDate>Sat, 14 Nov 2020 09:05:16 +0100</pubDate>
       <dc:date>2020-11-14T09:05:16.669451+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Рего, 21–27 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Народно събрание<br/>121 seats needed for a majority<br/>Opinion poll by Рего, 21–27 October 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего-seating-plan.png" length="596842" type="image/png"/>
-      <pubDate>Sat, 14 Nov 2020 10:46:51 +0100</pubDate>
-      <dc:date>2020-11-14T10:46:51.546058+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Рего, 21–27 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html#seats</link>
-      <description><![CDATA[Seat projections for the Народно събрание<br/>121 seats needed for a majority<br/>Opinion poll by Рего, 21–27 October 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего-seats.png" length="215446" type="image/png"/>
-      <pubDate>Sat, 14 Nov 2020 10:46:51 +0100</pubDate>
-      <dc:date>2020-11-14T10:46:51.546058+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Рего, 21–27 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html</link>
-      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Рего, 21–27 October 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2020-10-27-Рего.png" length="263486" type="image/png"/>
-      <pubDate>Sat, 14 Nov 2020 10:46:51 +0100</pubDate>
-      <dc:date>2020-11-14T10:46:51.546058+01:00</dc:date>
     </item>
   </channel>
 </rss>
