@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Fri, 05 Feb 2021 18:19:52 +0100</pubDate>
+    <pubDate>Sat, 06 Feb 2021 12:50:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 63–84 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 44–63 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–13 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 23–38 seats&lt;/li&gt;&lt;li&gt;Демократична България: 21–35 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 32–48 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС-seats.png"
+        length="248680"
+        type="image/png"/>
+      <pubDate>Sat, 06 Feb 2021 12:50:26 +0100</pubDate>
+      <dc:date>2021-02-06T12:50:26.294829+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС-coalitions-seats.png"
+        length="225333"
+        type="image/png"/>
+      <pubDate>Sat, 06 Feb 2021 12:50:26 +0100</pubDate>
+      <dc:date>2021-02-06T12:50:26.294829+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-01-31-МаркетЛИНКС.png"
         length="295925"
         type="image/png"/>
-      <pubDate>Fri, 05 Feb 2021 18:19:52 +0100</pubDate>
-      <dc:date>2021-02-05T18:19:52.292783+01:00</dc:date>
+      <pubDate>Sat, 06 Feb 2021 12:50:26 +0100</pubDate>
+      <dc:date>2021-02-06T12:50:26.294829+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 12–19 January 2021 – Seat Projections for the Parties</title>
@@ -2319,6 +2339,6 @@
       <pubDate>Sun, 15 Nov 2020 18:02:02 +0100</pubDate>
       <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
     </item>
-    <dc:date>2021-02-05T18:19:52.292783+01:00</dc:date>
+    <dc:date>2021-02-06T12:50:26.294829+01:00</dc:date>
   </channel>
 </rss>
