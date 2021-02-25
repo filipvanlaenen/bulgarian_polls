@@ -17,7 +17,7 @@
 | Демократична България | 0.0% | 6.8% | 5.9–8.0% |5.6–8.3% |5.4–8.6% |5.0–9.1% |
 | Изправи се Бг | 0.0% | 4.7% | 4.0–5.7% |3.8–6.0% |3.6–6.2% |3.3–6.8% |
 | Обединени Патриоти | 9.3% | 4.2% | 3.4–5.1% |3.2–5.3% |3.1–5.6% |2.8–6.1% |
-| Воля | 4.3% | 2.7% | 2.1–3.4% |2.0–3.7% |1.8–3.9% |1.6–4.3% |
+| Воля–Национален фронт за спасение на България | 4.3% | 2.7% | 2.1–3.4% |2.0–3.7% |1.8–3.9% |1.6–4.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,7 +38,7 @@
 | <a href="#демократична-българия">Демократична България</a> | 0 | 19 | 16–22 |15–23 |15–23 |14–25 |
 | <a href="#изправи-се-бг">Изправи се Бг</a> | 0 | 13 | 11–16 |0–16 |0–17 |0–18 |
 | <a href="#обединени-патриоти">Обединени Патриоти</a> | 27 | 11 | 0–14 |0–14 |0–15 |0–16 |
-| <a href="#воля">Воля</a> | 12 | 0 | 0 |0 |0 |0–11 |
+| <a href="#воля–национален-фронт-за-спасение-на-българия">Воля–Национален фронт за спасение на България</a> | 12 | 0 | 0 |0 |0 |0–11 |
 
 ### Граждани за европейско развитие на България
 
@@ -324,11 +324,11 @@
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% | Last Result |
 
-### Воля
+### Воля–Национален фронт за спасение на България
 
-*For a full overview of the results for this party, see the [Воля](party-воля.html) page.*
+*For a full overview of the results for this party, see the [Воля–Национален фронт за спасение на България](party-воля–националенфронтзаспасениенабългария.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-02-12-GallupInternational-seats-pmf-воля.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-02-12-GallupInternational-seats-pmf-воля–националенфронтзаспасениенабългария.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
