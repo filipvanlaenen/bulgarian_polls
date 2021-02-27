@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.0–6.2% | 2.7–6.7% | 2.4–7.1% | 2.0–7.8% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.9–6.1% | 2.7–6.7% | 2.5–7.1% | 2.2–7.8% |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 4.2% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.1% |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
@@ -103,16 +104,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 3% | 99.9% |  |
-| 2.5–3.5% | 25% | 97% |  |
-| 3.5–4.5% | 38% | 71% | Median |
-| 4.5–5.5% | 16% | 33% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 29% | 97% |  |
+| 3.5–4.5% | 37% | 68% | Median |
+| 4.5–5.5% | 14% | 31% |  |
 | 5.5–6.5% | 11% | 17% |  |
 | 6.5–7.5% | 5% | 6% |  |
 | 7.5–8.5% | 0.8% | 0.8% |  |
 | 8.5–9.5% | 0% | 0% | Last Result |
-| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -124,6 +124,7 @@ Last result: **27** seats (General Election of 27 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 0–17 | 0–19 | 0–19 | 0–23 |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 0 | 0–12 | 0–13 | 0–13 | 0–14 |
 | [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 11 | 0–14 | 0–14 | 0–15 | 0–16 |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 17 | 17–20 | 15–23 | 15–23 | 12–23 |
@@ -229,12 +230,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 53% |  |
 | 9 | 0% | 53% |  |
 | 10 | 2% | 53% |  |
-| 11 | 7% | 52% | Median |
-| 12 | 11% | 44% |  |
+| 11 | 6% | 51% | Median |
+| 12 | 12% | 45% |  |
 | 13 | 6% | 33% |  |
 | 14 | 5% | 27% |  |
 | 15 | 2% | 22% |  |
-| 16 | 1.3% | 20% |  |
+| 16 | 1.2% | 19% |  |
 | 17 | 12% | 18% |  |
 | 18 | 1.2% | 6% |  |
 | 19 | 3% | 5% |  |
