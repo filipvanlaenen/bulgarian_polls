@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/bulgarian_polls</id>
   <title>All Registered Polls for the Народно събрание</title>
-  <updated>2021-03-05T19:10:15.738789+01:00</updated>
+  <updated>2021-03-05T19:40:39.473439+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 24.9–32.6%, 65–90 seats</li><li>Българска социалистическа партия: 19.7–26.9%, 54–72 seats</li><li>Обединени Патриоти: 2.5–5.7%, 0–16 seats</li><li>Атака: 0.2–1.6%, 0 seats</li><li>Алтернатива за българско възраждане: 0.4–2.2%, 0 seats</li><li>Движение за права и свободи: 9.9–15.5%, 27–42 seats</li><li>Демократична България: 4.0–7.9%, 12–21 seats</li><li>Има такъв народ: 10.7–16.5%, 31–44 seats</li><li>Изправи се Бг: 3.0–6.6%, 0–19 seats</li><li>Възраждане: 0.3–1.9%, 0 seats</li><li>Републиканци за България: 0.4–2.2%, 0 seats</li><li>Воля–Национален фронт за спасение на България: 1.0–3.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-01-Алфарисърч.html</id>
@@ -22,6 +22,22 @@
     <title>Opinion Poll by Gallup International for BNR/BNT, 22 February–1 March 2021</title>
     <updated>2021-03-05T18:49:47.140299+01:00</updated>
     <dc:date>2021-03-05T18:49:47.140299+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 24.0–31.3%, 64–86 seats</li><li>Българска социалистическа партия: 20.9–27.8%, 56–77 seats</li><li>Обединени Патриоти: 2.7–5.9%, 0–16 seats</li><li>Алтернатива за българско възраждане: 0.7–2.7%, 0 seats</li><li>Движение за права и свободи: 8.5–13.6%, 23–37 seats</li><li>Демократична България: 2.8–6.1%, 0–16 seats</li><li>Има такъв народ: 12.4–18.3%, 33–50 seats</li><li>Изправи се Бг: 3.5–7.2%, 0–19 seats</li><li>Воля–Национален фронт за спасение на България: 2.0–4.9%, 0–13 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_polls/2021-02-26-Медиана.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_polls/2021-02-26-Медиана.html"/>
+    <title>Opinion Poll by Медиана, 22–26 February 2021</title>
+    <updated>2021-03-05T19:27:49.995336+01:00</updated>
+    <dc:date>2021-03-05T19:27:49.995336+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 23.0–30.0%, 73–95 seats</li><li>Българска социалистическа партия: 19.1–25.7%, 61–81 seats</li><li>Движение за права и свободи: 6.5–11.0%, 21–35 seats</li><li>Демократична България: 3.6–7.2%, 0–23 seats</li><li>Има такъв народ: 10.9–16.4%, 35–52 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_polls/2021-02-22-Exacta.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_polls/2021-02-22-Exacta.html"/>
+    <title>Opinion Poll by Exacta, 15–22 February 2021</title>
+    <updated>2021-03-05T19:40:39.473439+01:00</updated>
+    <dc:date>2021-03-05T19:40:39.473439+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България: 25.0–33.2%, 67–91 seats</li><li>Българска социалистическа партия: 20.4–28.1%, 55–78 seats</li><li>Обединени Патриоти: 2.4–5.9%, 0–16 seats</li><li>Движение за права и свободи: 8.6–14.3%, 23–39 seats</li><li>Демократична България: 4.3–8.7%, 11–24 seats</li><li>Има такъв народ: 10.2–16.2%, 27–45 seats</li><li>Изправи се Бг: 2.6–6.2%, 0–17 seats</li><li>Възраждане: 0.5–2.5%, 0 seats</li><li>Воля–Национален фронт за спасение на България: 1.5–4.4%, 0–12 seats</li></ul></div></content>
@@ -719,5 +735,5 @@
     <updated>2020-11-15T18:02:02.557349+01:00</updated>
     <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
   </entry>
-  <dc:date>2021-03-05T19:10:15.738789+01:00</dc:date>
+  <dc:date>2021-03-05T19:40:39.473439+01:00</dc:date>
 </feed>
