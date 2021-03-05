@@ -129,10 +129,10 @@ Last result: **0** seats (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 0–16 | 0–16 | 0–17 | 0–20 |
+| N/A | [Poll Average](average.html) | 13 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0–15 | 0–16 | 0–19 | 0–21 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 12 | 0–16 | 0–16 | 0–18 | 0–19 |
-| [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 15 | 0–16 | 0–17 | 0–18 | 0–21 |
+| [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 14 | 11–17 | 0–18 | 0–19 | 0–22 |
 | [15–22 February 2021](2021-02-22-Exacta.html) | Exacta |  |  |  |  |  |
 | [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT | 11 | 0–15 | 0–16 | 0–17 | 0–18 |
 | [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
@@ -242,14 +242,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 68% |  |
 | 10 | 0.3% | 68% |  |
 | 11 | 8% | 68% |  |
-| 12 | 8% | 60% |  |
-| 13 | 10% | 52% | Median |
-| 14 | 18% | 42% |  |
-| 15 | 11% | 23% |  |
-| 16 | 7% | 12% |  |
-| 17 | 3% | 5% |  |
-| 18 | 1.0% | 2% |  |
-| 19 | 0.7% | 1.4% |  |
+| 12 | 10% | 60% |  |
+| 13 | 11% | 50% | Median |
+| 14 | 20% | 39% |  |
+| 15 | 7% | 19% |  |
+| 16 | 6% | 12% |  |
+| 17 | 3% | 6% |  |
+| 18 | 1.0% | 3% |  |
+| 19 | 0.9% | 2% |  |
 | 20 | 0.4% | 0.7% |  |
 | 21 | 0.2% | 0.3% |  |
 | 22 | 0.1% | 0.1% |  |

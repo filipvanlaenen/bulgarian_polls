@@ -127,7 +127,7 @@ Last result: **12** seats (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–11 | 0–13 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–12 | 0–13 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0 | 0 | 0–11 | 0–13 |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 0 | 0–11 | 0–12 | 0–13 | 0–14 |
@@ -240,9 +240,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 5% |  |
 | 10 | 0.2% | 5% |  |
 | 11 | 2% | 5% |  |
-| 12 | 1.2% | 2% | Last Result |
-| 13 | 1.0% | 1.3% |  |
-| 14 | 0.2% | 0.3% |  |
+| 12 | 2% | 3% | Last Result |
+| 13 | 0.8% | 1.1% |  |
+| 14 | 0.3% | 0.4% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
