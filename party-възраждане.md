@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.5% | 0.6–3.0% | 0.4–3.4% | 0.3–4.1% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.7–2.7% | 0.5–3.1% | 0.4–3.5% | 0.3–4.2% |
+| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 1.1% | 0.7–2.0% | 0.6–2.3% | 0.5–2.6% | 0.3–3.1% |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0.8% | 0.4–1.5% | 0.4–1.7% | 0.3–1.9% | 0.2–2.3% |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 1.3% | 0.9–2.2% | 0.7–2.5% | 0.6–2.7% | 0.5–3.2% |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
@@ -109,10 +110,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 5% | 100% | Last Result |
-| 0.5–1.5% | 59% | 95% | Median |
-| 1.5–2.5% | 26% | 36% |  |
-| 2.5–3.5% | 8% | 10% |  |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 52% | 94% | Median |
+| 1.5–2.5% | 30% | 42% |  |
+| 2.5–3.5% | 10% | 12% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -126,7 +127,8 @@ Last result: **0** seats (General Election of 27 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–12 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–13 |
+| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0 | 0 | 0 | 0 |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана |  |  |  |  |  |
@@ -227,21 +229,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0% | 0.6% |  |
-| 2 | 0% | 0.6% |  |
-| 3 | 0% | 0.6% |  |
-| 4 | 0% | 0.6% |  |
-| 5 | 0% | 0.6% |  |
-| 6 | 0% | 0.6% |  |
-| 7 | 0% | 0.6% |  |
-| 8 | 0% | 0.6% |  |
-| 9 | 0% | 0.6% |  |
-| 10 | 0% | 0.6% |  |
-| 11 | 0% | 0.6% |  |
-| 12 | 0.1% | 0.5% |  |
-| 13 | 0.3% | 0.4% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0% | 0.7% |  |
+| 2 | 0% | 0.7% |  |
+| 3 | 0% | 0.7% |  |
+| 4 | 0% | 0.7% |  |
+| 5 | 0% | 0.7% |  |
+| 6 | 0% | 0.7% |  |
+| 7 | 0% | 0.7% |  |
+| 8 | 0% | 0.7% |  |
+| 9 | 0% | 0.7% |  |
+| 10 | 0% | 0.7% |  |
+| 11 | 0.1% | 0.7% |  |
+| 12 | 0.1% | 0.6% |  |
+| 13 | 0.3% | 0.6% |  |
 | 14 | 0.1% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 15 | 0% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
