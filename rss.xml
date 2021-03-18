@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Fri, 05 Mar 2021 19:40:39 +0100</pubDate>
+    <pubDate>Thu, 18 Mar 2021 16:55:03 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 9–14 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-14-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 66–85 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 55–75 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–14 seats&lt;/li&gt;&lt;li&gt;Атака: 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 28–44 seats&lt;/li&gt;&lt;li&gt;Демократична България: 13–22 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 29–38 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–16 seats&lt;/li&gt;&lt;li&gt;Възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Републиканци за България: 0 seats&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 0–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-14-Тренд-seats.png"
+        length="316821"
+        type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 16:55:03 +0100</pubDate>
+      <dc:date>2021-03-18T16:55:03.39452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 9–14 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-14-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-14-Тренд-coalitions-seats.png"
+        length="209064"
+        type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 16:55:03 +0100</pubDate>
+      <dc:date>2021-03-18T16:55:03.39452+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 9–14 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-14-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 24.8–33.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 20.0–27.8%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.5–6.2%&lt;/li&gt;&lt;li&gt;Атака: 0.4–2.3%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.5–2.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.5–15.5%&lt;/li&gt;&lt;li&gt;Демократична България: 4.1–8.6%&lt;/li&gt;&lt;li&gt;Има такъв народ: 9.9–16.0%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.7–6.5%&lt;/li&gt;&lt;li&gt;Възраждане: 0.5–2.6%&lt;/li&gt;&lt;li&gt;Републиканци за България: 0.4–2.3%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 1.4–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-14-Тренд.png"
+        length="406021"
+        type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 16:55:03 +0100</pubDate>
+      <dc:date>2021-03-18T16:55:03.39452+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Алфа рисърч for bTV, 26 February–1 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-01-Алфарисърч.html#seats</link>
@@ -2739,6 +2769,6 @@
       <pubDate>Sun, 15 Nov 2020 18:02:02 +0100</pubDate>
       <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
     </item>
-    <dc:date>2021-03-05T19:40:39.473439+01:00</dc:date>
+    <dc:date>2021-03-18T16:55:03.39452+01:00</dc:date>
   </channel>
 </rss>
