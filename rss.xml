@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Sun, 04 Apr 2021 17:21:30 +0200</pubDate>
+    <pubDate>Sun, 04 Apr 2021 19:31:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup for BNR, 24–31 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-31-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 62–88 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 44–70 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–20 seats&lt;/li&gt;&lt;li&gt;Атака: 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 25–47 seats&lt;/li&gt;&lt;li&gt;Демократична България: 0–25 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 25–47 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–21 seats&lt;/li&gt;&lt;li&gt;Възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Републиканци за България: 0 seats&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 0–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-31-Gallup-seats.png"
+        length="348834"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 18:27:49 +0200</pubDate>
+      <dc:date>2021-04-04T18:27:49.940658+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup for BNR, 24–31 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-31-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-31-Gallup-coalitions-seats.png"
+        length="250115"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 18:27:49 +0200</pubDate>
+      <dc:date>2021-04-04T18:27:49.940658+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup for BNR, 24–31 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-31-Gallup.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-31-Gallup.png"
         length="409790"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 17:07:41 +0200</pubDate>
-      <dc:date>2021-04-04T17:07:41.32462+02:00</dc:date>
+      <pubDate>Sun, 04 Apr 2021 18:27:49 +0200</pubDate>
+      <dc:date>2021-04-04T18:27:49.940658+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for Nova, 26–30 March 2021 – Seat Projections for the Parties</title>
@@ -50,14 +70,34 @@
       <dc:date>2021-04-04T14:40:55.730222+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ПИК, 27–30 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-ПИК.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 68–89 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 45–65 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–18 seats&lt;/li&gt;&lt;li&gt;Атака: 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 28–47 seats&lt;/li&gt;&lt;li&gt;Демократична България: 12–24 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 28–44 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–19 seats&lt;/li&gt;&lt;li&gt;Възраждане: 0 seats&lt;/li&gt;&lt;li&gt;Републиканци за България: 0 seats&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-ПИК-seats.png"
+        length="322491"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 19:31:43 +0200</pubDate>
+      <dc:date>2021-04-04T19:31:43.833672+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ПИК, 27–30 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-ПИК.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-ПИК-coalitions-seats.png"
+        length="236312"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 19:31:43 +0200</pubDate>
+      <dc:date>2021-04-04T19:31:43.833672+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ПИК, 27–30 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-ПИК.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 24.0–33.8%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 15.7–24.4%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.6–7.1%&lt;/li&gt;&lt;li&gt;Атака: 0.5–3.1%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.5–3.1%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 10.0–17.4%&lt;/li&gt;&lt;li&gt;Демократична България: 4.0–9.3%&lt;/li&gt;&lt;li&gt;Има такъв народ: 9.4–16.7%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.8–7.5%&lt;/li&gt;&lt;li&gt;Възраждане: 0.9–4.0%&lt;/li&gt;&lt;li&gt;Републиканци за България: 0.3–2.7%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 1.3–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-ПИК.png"
         length="416702"
         type="image/png"/>
-      <pubDate>Sun, 04 Apr 2021 17:21:30 +0200</pubDate>
-      <dc:date>2021-04-04T17:21:30.508159+02:00</dc:date>
+      <pubDate>Sun, 04 Apr 2021 19:31:43 +0200</pubDate>
+      <dc:date>2021-04-04T19:31:43.833672+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 27–30 March 2021 – Seat Projections for the Parties</title>
@@ -118,6 +158,36 @@
         type="image/png"/>
       <pubDate>Sun, 04 Apr 2021 13:40:32 +0200</pubDate>
       <dc:date>2021-04-04T13:40:32.738587+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Exacta, 23–29 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-29-Exacta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 66–90 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 44–66 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–16 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 26–43 seats&lt;/li&gt;&lt;li&gt;Демократична България: 13–26 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 28–45 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-29-Exacta-seats.png"
+        length="259861"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 18:43:24 +0200</pubDate>
+      <dc:date>2021-04-04T18:43:24.167467+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Exacta, 23–29 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-29-Exacta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-29-Exacta-coalitions-seats.png"
+        length="235176"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 18:43:24 +0200</pubDate>
+      <dc:date>2021-04-04T18:43:24.167467+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Exacta, 23–29 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-29-Exacta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 24.6–32.9%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 16.5–23.9%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.7–6.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.7–15.8%&lt;/li&gt;&lt;li&gt;Демократична България: 4.7–9.3%&lt;/li&gt;&lt;li&gt;Има такъв народ: 10.3–16.5%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 2.7–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-29-Exacta.png"
+        length="294180"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 18:43:24 +0200</pubDate>
+      <dc:date>2021-04-04T18:43:24.167467+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Рего, 25–28 March 2021 – Seat Projections for the Parties</title>
@@ -2789,6 +2859,6 @@
       <pubDate>Sun, 15 Nov 2020 18:02:02 +0100</pubDate>
       <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
     </item>
-    <dc:date>2021-04-04T17:21:30.508159+02:00</dc:date>
+    <dc:date>2021-04-04T19:31:43.833672+02:00</dc:date>
   </channel>
 </rss>
