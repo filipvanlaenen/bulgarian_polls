@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 27 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–11 |
-| [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0 | 0 |
+| [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0 | 0–12 |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0 | 0 | 0 | 0 | 0–11 |
 | [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 0 | 0 | 0 | 0 | 0–12 |
 | [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
@@ -249,7 +249,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.3% | 0.6% |  |
 | 12 | 0.2% | 0.3% |  |
 | 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
 
 
