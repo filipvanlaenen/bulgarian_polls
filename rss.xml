@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Wed, 31 Mar 2021 15:33:28 +0200</pubDate>
+    <pubDate>Sun, 04 Apr 2021 12:41:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for Nova, 26–30 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 24.7–32.8%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 18.3–25.8%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.8–6.5%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.5–2.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.8–15.8%&lt;/li&gt;&lt;li&gt;Демократична България: 4.1–8.4%&lt;/li&gt;&lt;li&gt;Има такъв народ: 9.8–15.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.3–7.2%&lt;/li&gt;&lt;li&gt;Възраждане: 0.9–3.3%&lt;/li&gt;&lt;li&gt;Републиканци за България: 0.5–2.5%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 1.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-Тренд.png"
+        length="392015"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 12:41:13 +0200</pubDate>
+      <dc:date>2021-04-04T12:41:13.641213+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 27–30 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-Алфарисърч.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 24.3–32.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 16.6–23.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.7–6.2%&lt;/li&gt;&lt;li&gt;Атака: 0.5–2.5%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане: 0.4–2.3%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.9–15.6%&lt;/li&gt;&lt;li&gt;Демократична България: 4.5–8.7%&lt;/li&gt;&lt;li&gt;Има такъв народ: 10.0–15.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 4.3–8.4%&lt;/li&gt;&lt;li&gt;Възраждане: 0.9–3.3%&lt;/li&gt;&lt;li&gt;Републиканци за България: 0.3–2.0%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България: 1.9–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-03-30-Алфарисърч.png"
+        length="400125"
+        type="image/png"/>
+      <pubDate>Sun, 04 Apr 2021 12:41:30 +0200</pubDate>
+      <dc:date>2021-04-04T12:41:30.453649+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Рего, 25–28 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-03-28-Рего.html#seats</link>
@@ -2679,6 +2699,6 @@
       <pubDate>Sun, 15 Nov 2020 18:02:02 +0100</pubDate>
       <dc:date>2020-11-15T18:02:02.557349+01:00</dc:date>
     </item>
-    <dc:date>2021-03-31T15:33:28.819593+02:00</dc:date>
+    <dc:date>2021-04-04T12:41:30.453649+02:00</dc:date>
   </channel>
 </rss>
