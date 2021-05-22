@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Народно събрание</title>
+    <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
+    <description>All Registered Polls for the Народно събрание</description>
+    <pubDate>Sat, 22 May 2021 23:18:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 16–23 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 50–67 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 39–53 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 0–12 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 21–33 seats&lt;/li&gt;&lt;li&gt;Демократична България: 27–40 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 48–65 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 12–22 seats&lt;/li&gt;&lt;li&gt;Възраждане: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС-seats.png"
+        length="256725"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 23:18:18 +0200</pubDate>
+      <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 16–23 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС-coalitions-seats.png"
+        length="203721"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 23:18:18 +0200</pubDate>
+      <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 16–23 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 20.0–26.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 15.2–21.2%&lt;/li&gt;&lt;li&gt;Обединени Патриоти: 2.2–5.0%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 8.2–12.9%&lt;/li&gt;&lt;li&gt;Демократична България: 10.7–16.0%&lt;/li&gt;&lt;li&gt;Има такъв народ: 19.2–25.7%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 4.8–8.7%&lt;/li&gt;&lt;li&gt;Възраждане: 1.1–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС.png"
+        length="322235"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 23:18:18 +0200</pubDate>
+      <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 12–14 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 26.8–33.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 12.9–17.8%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.4–13.8%&lt;/li&gt;&lt;li&gt;Демократична България: 11.1–15.7%&lt;/li&gt;&lt;li&gt;Има такъв народ: 22.7–28.6%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.4–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup.png"
+        length="253092"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 23:04:46 +0200</pubDate>
+      <dc:date>2021-05-22T23:04:46.937929+02:00</dc:date>
+    </item>
+    <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
+  </channel>
+</rss>
