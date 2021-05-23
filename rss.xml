@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Sat, 22 May 2021 23:18:18 +0200</pubDate>
+    <pubDate>Sun, 23 May 2021 00:05:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС for bTV, 16–23 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-23-МаркетЛИНКС.html#seats</link>
@@ -40,15 +40,35 @@
       <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 12–14 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 64–80 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 31–43 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 23–33 seats&lt;/li&gt;&lt;li&gt;Демократична България: 27–38 seats&lt;/li&gt;&lt;li&gt;Има такъв народ: 54–69 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup-seats.png"
+        length="222374"
+        type="image/png"/>
+      <pubDate>Sun, 23 May 2021 00:05:20 +0200</pubDate>
+      <dc:date>2021-05-23T00:05:20.943426+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 12–14 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup-coalitions-seats.png"
+        length="194263"
+        type="image/png"/>
+      <pubDate>Sun, 23 May 2021 00:05:20 +0200</pubDate>
+      <dc:date>2021-05-23T00:05:20.943426+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 12–14 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 26.8–33.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 12.9–17.8%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.4–13.8%&lt;/li&gt;&lt;li&gt;Демократична България: 11.1–15.7%&lt;/li&gt;&lt;li&gt;Има такъв народ: 22.7–28.6%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.4–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-04-14-Gallup.png"
         length="253092"
         type="image/png"/>
-      <pubDate>Sat, 22 May 2021 23:04:46 +0200</pubDate>
-      <dc:date>2021-05-22T23:04:46.937929+02:00</dc:date>
+      <pubDate>Sun, 23 May 2021 00:05:20 +0200</pubDate>
+      <dc:date>2021-05-23T00:05:20.943426+02:00</dc:date>
     </item>
-    <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
+    <dc:date>2021-05-23T00:05:20.943426+02:00</dc:date>
   </channel>
 </rss>
