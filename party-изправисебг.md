@@ -52,7 +52,7 @@ Last result: **14** seats (General Election of 4 April 2021)
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 14 | 11–17 | 0–18 | 0–19 | 0–21 |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 16 | 14–19 | 12–20 | 11–20 | 0–22 |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 16 | 0–19 | 0–21 | 0–22 | 0–24 |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 13 | 0–15 | 0–16 | 0–17 | 0–18 |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 13 | 0–15 | 0–16 | 0–17 | 0–19 |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 16 | 14–19 | 13–20 | 12–20 | 0–22 |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 
@@ -74,12 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 92% |  |
 | 8 | 0% | 92% |  |
 | 9 | 0% | 92% |  |
-| 10 | 0.6% | 92% |  |
-| 11 | 4% | 92% |  |
-| 12 | 7% | 88% |  |
-| 13 | 12% | 80% |  |
-| 14 | 10% | 68% | Last Result |
-| 15 | 17% | 58% | Median |
+| 10 | 0.7% | 92% |  |
+| 11 | 5% | 92% |  |
+| 12 | 8% | 87% |  |
+| 13 | 9% | 79% |  |
+| 14 | 13% | 70% | Last Result |
+| 15 | 15% | 57% | Median |
 | 16 | 13% | 41% |  |
 | 17 | 10% | 28% |  |
 | 18 | 7% | 19% |  |
