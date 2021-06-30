@@ -53,7 +53,7 @@ Last result: **14** seats (General Election of 4 April 2021)
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 16 | 14–19 | 12–20 | 11–20 | 0–22 |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 16 | 0–19 | 0–21 | 0–22 | 0–24 |
 | [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 13 | 0–15 | 0–16 | 0–17 | 0–19 |
-| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 16 | 14–19 | 13–20 | 12–20 | 0–22 |
+| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 16 | 12–19 | 0–20 | 0–21 | 0–24 |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 
 ### Probability Mass Function
