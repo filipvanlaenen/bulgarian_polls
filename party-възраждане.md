@@ -10,7 +10,9 @@ Last result: **2.4%** (General Election of 4 April 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.4–3.5% | 1.2–3.8% | 1.1–4.2% | 0.9–4.8% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
+| [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 3.0% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.7–5.3% |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 2.3% | 1.6–3.4% | 1.4–3.7% | 1.3–4.1% | 1.0–4.7% |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
@@ -27,11 +29,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 45% | 85% | Last Result, Median |
-| 2.5–3.5% | 31% | 40% |  |
-| 3.5–4.5% | 8% | 9% |  |
-| 4.5–5.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 39% | 97% | Last Result |
+| 2.5–3.5% | 43% | 58% | Median |
+| 3.5–4.5% | 13% | 15% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -44,7 +46,9 @@ Last result: **0** seats (General Election of 4 April 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–11 | 0–12 | 0–13 |
+| [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
+| [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 0 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0–11 | 0–13 |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg |  |  |  |  |  |
@@ -62,22 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 0% | 4% |  |
-| 4 | 0% | 4% |  |
-| 5 | 0% | 4% |  |
-| 6 | 0% | 4% |  |
-| 7 | 0% | 4% |  |
-| 8 | 0% | 4% |  |
-| 9 | 0% | 4% |  |
-| 10 | 0.2% | 4% |  |
-| 11 | 1.0% | 4% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.7% | 1.0% |  |
-| 14 | 0.2% | 0.4% |  |
-| 15 | 0.1% | 0.1% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 0% | 7% |  |
+| 4 | 0% | 7% |  |
+| 5 | 0% | 7% |  |
+| 6 | 0% | 7% |  |
+| 7 | 0% | 7% |  |
+| 8 | 0% | 7% |  |
+| 9 | 0% | 7% |  |
+| 10 | 0.5% | 7% |  |
+| 11 | 2% | 6% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.8% | 1.3% |  |
+| 14 | 0.3% | 0.4% |  |
+| 15 | 0.1% | 0.2% |  |
 | 16 | 0% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
