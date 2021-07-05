@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Народно събрание</title>
     <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
     <description>All Registered Polls for the Народно събрание</description>
-    <pubDate>Wed, 30 Jun 2021 14:54:33 +0200</pubDate>
+    <pubDate>Mon, 05 Jul 2021 17:02:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Медиана, 26 June–2 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-07-02-Медиана.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 19.9–25.3%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 18.2–23.4%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 9.2–13.3%&lt;/li&gt;&lt;li&gt;Демократична България: 8.2–12.1%&lt;/li&gt;&lt;li&gt;Има такъв народ: 19.2–24.5%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 3.9–6.7%&lt;/li&gt;&lt;li&gt;Възраждане: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Българските патриоти: 3.6–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-07-02-Медиана.png"
+        length="308477"
+        type="image/png"/>
+      <pubDate>Mon, 05 Jul 2021 16:55:57 +0200</pubDate>
+      <dc:date>2021-07-05T16:55:57.656901+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market Links for bTV, 18–25 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-06-25-MarketLinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България: 19.9–26.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия: 14.4–20.3%&lt;/li&gt;&lt;li&gt;Движение за права и свободи: 7.1–11.7%&lt;/li&gt;&lt;li&gt;Демократична България: 10.9–16.2%&lt;/li&gt;&lt;li&gt;Има такъв народ: 18.9–25.4%&lt;/li&gt;&lt;li&gt;Изправи се Бг: 4.9–8.8%&lt;/li&gt;&lt;li&gt;Възраждане: 2.0–4.7%&lt;/li&gt;&lt;li&gt;Българските патриоти: 2.1–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-06-25-MarketLinks.png"
+        length="323799"
+        type="image/png"/>
+      <pubDate>Mon, 05 Jul 2021 17:02:11 +0200</pubDate>
+      <dc:date>2021-07-05T17:02:11.936265+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 11–18 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-06-18-Тренд.html#seats</link>
@@ -249,6 +269,6 @@
       <pubDate>Sat, 22 May 2021 23:18:18 +0200</pubDate>
       <dc:date>2021-05-22T23:18:18.029324+02:00</dc:date>
     </item>
-    <dc:date>2021-06-30T14:54:33.410777+02:00</dc:date>
+    <dc:date>2021-07-05T17:02:11.936265+02:00</dc:date>
   </channel>
 </rss>
