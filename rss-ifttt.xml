@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the Народно събрание</title>
+    <link>https://filipvanlaenen.github.io/bulgarian_polls</link>
+    <description>All Registered Polls for the Народно събрание</description>
+    <pubDate>Sat, 23 Oct 2021 18:29:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup for BNR, 10–17 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-10-17-Gallup.html</link>
+      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Gallup for BNR, 10–17 October 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2021-10-17-Gallup.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-17-Gallup.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-17-Gallup.png" length="364250" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 18:11:57 +0200</pubDate>
+      <dc:date>2021-10-23T18:11:57.012225+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Exacta, 6–12 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-Exacta.html</link>
+      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Exacta, 6–12 October 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-Exacta.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-Exacta.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-Exacta.png" length="358895" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 18:26:53 +0200</pubDate>
+      <dc:date>2021-10-23T18:26:53.3372+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sova Harris for Dir.bg, 5–12 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-SovaHarris.html</link>
+      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Sova Harris for Dir.bg, 5–12 October 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-SovaHarris.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-SovaHarris.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-12-SovaHarris.png" length="357918" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 18:20:40 +0200</pubDate>
+      <dc:date>2021-10-23T18:20:40.870767+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Център за анализи и маркетинг, 6–10 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_polls/2021-10-10-Центързаанализиимаркетинг.html</link>
+      <description><![CDATA[Voting intentions for the Народно събрание<br/>Opinion poll by Център за анализи и маркетинг, 6–10 October 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_polls/2021-10-10-Центързаанализиимаркетинг.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-10-Центързаанализиимаркетинг.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_polls/2021-10-10-Центързаанализиимаркетинг.png" length="337225" type="image/png"/>
+      <pubDate>Sat, 23 Oct 2021 18:34:06 +0200</pubDate>
+      <dc:date>2021-10-23T18:34:06.301487+02:00</dc:date>
+    </item>
+  </channel>
+</rss>
